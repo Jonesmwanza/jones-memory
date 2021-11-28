@@ -1,0 +1,1 @@
+Assume you have a class of 5students.write a C program that prints students academic transcript for a particular semester.the transcript should contain all information contained in the real transcript except the logo.The program should be able to capture marks and display transcript for all 5 students.The program must have all the three control structures    
